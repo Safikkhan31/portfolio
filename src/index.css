@@ -1,0 +1,10 @@
+:root {
+    /* color template link: https://colorhunt.co/palette/e8edf22c3947547a95c2a56d */
+  --background-color: #E8EDF2;
+  --primary-color: #2C3947;
+  --secondary-color: #547A95;
+  --accent-color: #C2A56D;
+
+  --text-color: #2C3947;
+  --text-light: #547A95;
+}
