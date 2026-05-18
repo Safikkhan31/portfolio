@@ -14,6 +14,9 @@ export const projects = [
             {
                 "GitHub" : "https://github.com/Safikkhan31/campus_talk"
             }
-        ]
+        ],
+        github_repo : "campus_talk" 
     }
 ];
+
+export const github_user = "Safikkhan31";
